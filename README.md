@@ -47,7 +47,7 @@ Spark Streaming integeration with kafka 0.10.0.0 and above, is still in experime
 An analysis of number of RSVPs from various cities in "US" region is performed on the RSVPs Stream.
 
 ## License
-  This project uses MIT License
+  This project uses GNU License
   
 ## References
 * https://mvnrepository.com/artifact/org.apache.spark/spark-streaming-kafka-0-8_2.11/2.0.1)
